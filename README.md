@@ -10,3 +10,6 @@ Quick and simple autoclicker with preset values
 # Default Binds
   - F6 = start/stop clicking
   - F7 = exit the program 
+
+# Additional Information
+  - Run the Python file as a ```.pyw``` file in order for this program to run and listen for input in the background
